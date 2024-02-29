@@ -5,20 +5,17 @@ Simple matching number game (somehow like candy crush but not really). Match 3 o
 <br></br>
 <img src="https://github.com/meezlung/terminal-based-games/assets/65329581/eecba0f9-d504-4979-8606-d06eacbec5f9" width="380" height="380" />
 <br></br>
-<br></br>
 
 ## terminal-based-minesweeper
 Minesweeper. 
 <br></br>
 <img src="https://github.com/meezlung/terminal-based-games/assets/65329581/4255b7fd-8ff5-419b-a950-997749f78226" width="335" height="300" />
 <br></br>
-<br></br>
 
 ## terminal-based-solitaire
 If you ever feel like playing solitaire and don't want to use a mouse, play this!
 <br></br>
 <img src="https://github.com/meezlung/terminal-based-games/assets/65329581/aa298166-d5a9-4e61-9a6f-6195fe953873" width="400" height="300" />
-<br></br>
 <br></br>
 
 
