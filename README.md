@@ -7,7 +7,7 @@ Simple matching number game (somehow like candy crush but not really). Match 3 o
 
 ### terminal-based-minesweeper
 Minesweeper.
-![image](https://github.com/meezlung/terminal-based-games/assets/65329581/4255b7fd-8ff5-419b-a950-997749f78226)
+![image](https://github.com/meezlung/terminal-based-games/assets/65329581/4255b7fd-8ff5-419b-a950-997749f78226 | width = 250)
 
 
 ### terminal-based-solitaire
