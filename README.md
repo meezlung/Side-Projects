@@ -22,7 +22,7 @@ If you ever feel like playing solitaire and don't want to use a mouse, play this
 <br></br>
 
 
-### Usage
+## Usage
 
 Enter the following on your terminal. Make sure you are in the right folder directory.
 ```
