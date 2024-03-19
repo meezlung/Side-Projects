@@ -1,0 +1,12 @@
+[] H7 s4 cK sA D9 sQ c4 c3 H3 H8 D7 D3 H4 H10 s8 DK HA sJ D5 DQ c2 HK c6 D6
+1 HQ
+2 
+3 cA s2
+4 s5 D2 H6 s3
+5 s6 D4 s7 cQ s10
+6 DJ H2 D8 cJ c9 c10 H9 c8
+7 c5 H5 HJ sK c7 D10 s9
+XX XX XX XX DA
+HQ s2 s3 s10 c10 H9 c8 D10 s9
+HQ s9 H9 cA s2 DA s5 D2 H6 s3 s6 D4 s7 cQ s10 DJ H2 D8 cJ c9 c10 c5 H5 HJ sK c7 D10 c8
+c8 s2 D10 c10 s9 s10 HQ H9 s3
