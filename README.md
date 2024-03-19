@@ -2,15 +2,15 @@ Random side projects I made
 
 ## terminal-based-matching-number-python-game (with gui)
 Simple matching number game (somehow like candy crush but not really). Match 3 or more adjacent cells with the same numbers to break the streak. Try to break blocks as many as possible to get a high score!
-
-![matching-numbers-2](https://github.com/meezlung/terminal-based-games/assets/65329581/4f43fd34-fc38-4965-babb-eda68e605027)
-
-
+<br></br>
+![matching-numbers-2](https://github.com/meezlung/terminal-based-games/assets/65329581/2d2fb8c0-1b90-4e58-80d8-c95621735f87)
+<br></br>
+<img src="https://github.com/meezlung/terminal-based-games/assets/65329581/eecba0f9-d504-4979-8606-d06eacbec5f9" width="380" height="380" />
 
 ## terminal-based-minesweeper
 Minesweeper. 
 <br></br>
-<img src="https://github.com/meezlung/terminal-based-games/assets/65329581/eecba0f9-d504-4979-8606-d06eacbec5f9" width="380" height="380" />
+
 
 <img src="https://github.com/meezlung/terminal-based-games/assets/65329581/4255b7fd-8ff5-419b-a950-997749f78226" width="335" height="300" />
 
