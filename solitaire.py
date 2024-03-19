@@ -1045,7 +1045,6 @@ class SolitaireGame():
 
 
 class SolitaireSaveLoad():
-    @staticmethod
 
     def save_game_state(self, filename_input):
 
