@@ -190,8 +190,6 @@ class SolitaireGame():
             self.revealed_cards.append(''.join(self.foundations_clubs[-1])) if len(self.foundations_clubs) > 1 else ''
             self.revealed_cards.append(''.join(self.foundations_diamonds[-1])) if len(self.foundations_diamonds) > 1 else ''
             # ---------------------------- compile all revealed cards in the board ---------------------------
-            
-    
 
             # ---------------------- combine all foundation cards to the foundation --------------------
             self.revealed_foundation_cards.append(''.join(self.foundations_spades[-1])) if len(self.foundations_spades) > 1 else ''
@@ -199,7 +197,6 @@ class SolitaireGame():
             self.revealed_foundation_cards.append(''.join(self.foundations_clubs[-1])) if len(self.foundations_clubs) > 1 else ''
             self.revealed_foundation_cards.append(''.join(self.foundations_diamonds[-1])) if len(self.foundations_diamonds) > 1 else ''
             # ---------------------- combine all foundation cards to the foundation --------------------
-
 
             #
             for i in self.table:
@@ -217,9 +214,6 @@ class SolitaireGame():
                 self.movable_last_elements.append(revealed)
 
             #
-
-
-
 
             print()
             user_input = input("Enter choice: ")
@@ -249,8 +243,7 @@ class SolitaireGame():
 
 
                 self.card_input = card_input # initializes the input as the global variable
-
-
+            
                 # ---------------------- INDEXING OF LAST ELEMENTS ----------------------------
                 if self.card_input in self.movable_last_elements_unorganized:# and add something here that i forgot:
                     for x, row in enumerate(self.movable_last_elements):
@@ -259,8 +252,6 @@ class SolitaireGame():
                                 self.movable_element_index = (x, y)
 
                 # ---------------------- INDEXING OF LAST ELEMENTS ----------------------------
-
-
 
                 # if card was in pile
                 if self.card_input in self.revealed_pile_cards:
@@ -298,8 +289,6 @@ class SolitaireGame():
                             print('That move is invalid!')
                             print()
                             continue
-
-
 
                     # if foundations Hearts is the target
                     elif target_pile == 'H':
