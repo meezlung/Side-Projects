@@ -4,8 +4,12 @@ Random side projects I made
 Simple matching number game (somehow like candy crush but not really). Match 3 or more adjacent cells with the same numbers to break the streak. Try to break blocks as many as possible to get a high score!
 <br></br>
 
-https://github.com/meezlung/terminal-based-games/assets/65329581/4dd024f5-f874-41db-b642-95db9aca65c4
-<img src="https://github.com/meezlung/terminal-based-games/assets/65329581/eecba0f9-d504-4979-8606-d06eacbec5f9" width="380" height="380" />
+
+
+https://github.com/meezlung/terminal-based-games/assets/65329581/62cfcb6f-e548-41b1-ba8a-a9a0521cfa11
+
+
+
 <br></br>
 
 ## terminal-based-minesweeper
