@@ -1,4 +1,4 @@
-Random side projects I made
+Random side projects I made. Game ideas were inspired by my ComEng friend (Gavin Montevirgen)
 
 ## terminal-based-matching-number-python-game (with gui)
 Simple matching number game (somehow like candy crush but not really). Match 3 or more adjacent cells with the same numbers to break the streak. Try to break blocks as many as possible to get a high score!
