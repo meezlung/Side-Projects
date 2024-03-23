@@ -125,14 +125,7 @@ Controls
                 print("Invalid coordinate.")
         else:
             print("Invalid choice.")
-
-        # Answers
-        # print('Number of Mines: ', len(mine_locations))
-        # print('Number of Flags: ', len(flag_coordinates))
-        # print('Flag coordinates: ', flag_coordinates)
-        # print('Mine locations: ', mine_locations)
-        # print('Mines left: ', len(mine_locations) - mines_match)
-        
+       
         if len(flag_coordinates) == len(mine_locations) and sorted(flag_coordinates) == sorted(mine_locations):
             print("YOU WIN")
             break
